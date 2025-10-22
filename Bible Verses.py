@@ -26,7 +26,26 @@ verse_blank = {
     }
   ],
   "lonely": [
-
+    {
+      "reference": "Psalm 23:4",
+      "text": "Even though I walk through the darkest valley, I will fear no evil, for you are with me.",
+      "description": "In your loneliest valleys, God walks alongside you — you are not alone."
+    },
+    {
+      "reference": "Deuteronomy 31:6",
+      "text": "Be strong and courageous. Do not be afraid or terrified... for the LORD your God goes with you; he will never leave you nor forsake you.",
+      "description": "God's promise: He goes with you and will not abandon you."
+    },
+    {
+      "reference": "Hebrews 13:5",
+      "text": "Never will I leave you; never will I forsake you.",
+      "description": "A short, powerful reminder of God's constant presence."
+    },
+    {
+      "reference": "Joshua 1:9",
+      "text": "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go",
+      "description": "Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go"
+    }
   ],
   "grateful":[
 
