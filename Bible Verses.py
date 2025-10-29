@@ -196,3 +196,19 @@ Synonms_Map = {
   "afraid":"fearful",
   "scared":"fearful"
 }
+
+def normalize_feeling(feel):
+  """Normalize feeling word to one of the keys in Verse_Bank"""
+  feel = feel.strip().lower()
+  if feel in verse_blank:
+    return feel
+  if feel in Synonms_Map:
+    return Synonms_Map[feel]
+  for key in verse_blank:
+    return key
+  for word in feel.split():
+    if word in verse_blank:
+      return word
+  if word in Synonms_Map:
+    return Synonms_Map[word]
+  return ""
