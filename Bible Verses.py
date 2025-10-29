@@ -70,7 +70,26 @@ verse_blank = {
     }
   ],
   "broken":[
-
+    {
+      "reference": "Psalm 34:18",
+      "text": "The LORD is close to the brokenhearted and saves those who are crushed in spirit.",
+      "description": "When your heart is shattered, God draws near to bring comfort and healing."
+    },
+    {
+      "reference": "Psalm 147:3",
+      "text": "He heals the brokenhearted and binds up their wounds.",
+      "description": "God is a gentle healer — you can bring your wounds to Him."
+    },
+    {
+      "reference": "Matthew 11:28",
+      "text": "Come to me, all who labor and are heavy laden, and I will give you rest.",
+      "description": "Jesus invites the hurting to come and receive rest."
+    },
+    {
+      "reference": "Romans 8:18",
+      "text": "I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.",
+      "description": "The sufferings we face now are nothing compared to the glory God will reveal in us. It’s a reminder to stay hopeful, knowing something far greater is coming."
+    }
   ],
   "tempted":[
 
