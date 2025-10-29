@@ -220,3 +220,13 @@ def pick_verse_for_feeling(feeling):
     return None, list(verse_blank.keys())
   chosen = random.choice(verse_blank[canonical])
   return chosen, canonical
+
+def print_verse(entry, feeling_key):
+  """Displays the verse"""
+  header = f"Feeling: {feeling_key.capitalize()} - {entry["reference"]}"
+  print(header)
+  print("-" * len(header))
+  print(fill(entry["text"], width=80))
+  print("\n description")
+  print(fill(entry["description"], width=80))
+  print("\n" + "=" * 80 + "\n")
