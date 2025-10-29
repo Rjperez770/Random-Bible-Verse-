@@ -180,3 +180,19 @@ verse_blank = {
     }
   ]
 }
+
+# Synonyms for flexibility
+Synonms_Map = {
+  "worried":"anxious",
+  "stressed":"anxious",
+  "alone":"lonely",
+  "thankful":"grateful",
+  "sad":"broken",
+  "hurt":"broken",
+  "temptation":"tempted",
+  "down":"hopeless",
+  "depressed":"hopeless",
+  "happy":"joyful",
+  "afraid":"fearful",
+  "scared":"fearful"
+}
