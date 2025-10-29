@@ -48,7 +48,26 @@ verse_blank = {
     }
   ],
   "grateful":[
-
+   {
+      "reference": "1 Thessalonians 5:18",
+      "text": "Give thanks in all circumstances; for this is God’s will for you in Christ Jesus.",
+      "description": "Gratitude is an act of faith — thank God even through the ordinary and hard moments."
+    },
+    {
+      "reference": "Psalm 100:4",
+      "text": "Enter his gates with thanksgiving and his courts with praise; give thanks to him and praise his name.",
+      "description": "Approach God with a thankful heart and celebrate His goodness."
+    },
+    {
+      "reference": "Colossians 3:15",
+      "text": "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.",
+      "description": "Peace and gratitude go hand-in-hand in the life of faith."
+    },
+    {
+      "reference": "James 1:17",
+      "text": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.",
+      "description": "Every good and perfect gift comes from God, who never changes. He is constant and faithful, the source of all goodness in our lives."
+    }
   ],
   "broken":[
 
