@@ -92,10 +92,48 @@ verse_blank = {
     }
   ],
   "tempted":[
-
+    {
+      "reference": "1 Corinthians 10:13",
+      "text": "No temptation has overtaken you except what is common to mankind. And God is faithful; he will not let you be tempted beyond what you can bear.",
+      "description": "Temptation is common, but God provides a way through it — you are not defeated."
+    },
+    {
+      "reference": "James 4:7",
+      "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you.",
+      "description": "Resisting temptation starts with submitting to God — it's an active, powerful choice."
+    },
+    {
+      "reference": "Matthew 26:41",
+      "text": "Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is weak.",
+      "description": "Prayer and awareness help you stand firm when your resolve wanes."
+    }
+    {
+      "reference":"Hebrews 2:18",
+      "text": "For because he himself has suffered when tempted, he is able to aid those who are tempted.",
+      "description": "Because Jesus suffered and was tempted, He understands our struggles and is able to help us when we face temptation."
+    }
   ],
   "hopeless":[
-
+    {
+      "reference": "Romans 15:13",
+      "text": "May the God of hope fill you with all joy and peace as you trust in him, so that you may overflow with hope by the power of the Holy Spirit.",
+      "description": "God is the source of true hope — trusting Him replenishes joy and peace."
+    },
+    {
+      "reference": "Jeremiah 29:11",
+      "text": "For I know the plans I have for you... plans to give you hope and a future.",
+      "description": "Even when things look bleak, God has a good plan for your future."
+    },
+    {
+      "reference": "Psalm 42:11",
+      "text": "Why, my soul, are you downcast? Put your hope in God...",
+      "description": "Talk to your soul and re-anchor hope in God — He is steady."
+    }
+    {
+      "reference": "Philippians 4:13",
+      "text": "I can do all this through him who gives me strength.",
+      "description": "With Christ’s strength, we can endure and accomplish anything. His power gives us the ability to overcome challenges and keep moving forward."
+    }
   ],
   "joyful":[
 
