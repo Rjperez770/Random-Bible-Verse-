@@ -230,3 +230,11 @@ def print_verse(entry, feeling_key):
   print("\n description")
   print(fill(entry["description"], width=80))
   print("\n" + "=" * 80 + "\n")
+
+if __name__ == "__main__":
+    user_feeling = input("How are you feeling? (e.g. anxious, lonely, grateful, broken, tempted, hopeless, joyful, fearful)\n> ")
+    entry, key_or_options = pick_verse_for_feeling(user_feeling)
+    if entry:
+        print_verse(entry, key_or_options)
+    else:
+        print("Sorry, I didn't recognize that feeling. Try one of:", ", ".join(key_or_options))
