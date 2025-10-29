@@ -106,7 +106,7 @@ verse_blank = {
       "reference": "Matthew 26:41",
       "text": "Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is weak.",
       "description": "Prayer and awareness help you stand firm when your resolve wanes."
-    }
+    },
     {
       "reference":"Hebrews 2:18",
       "text": "For because he himself has suffered when tempted, he is able to aid those who are tempted.",
@@ -128,7 +128,7 @@ verse_blank = {
       "reference": "Psalm 42:11",
       "text": "Why, my soul, are you downcast? Put your hope in God...",
       "description": "Talk to your soul and re-anchor hope in God — He is steady."
-    }
+    },
     {
       "reference": "Philippians 4:13",
       "text": "I can do all this through him who gives me strength.",
@@ -136,9 +136,47 @@ verse_blank = {
     }
   ],
   "joyful":[
-
+    {
+      "reference": "Philippians 4:4",
+      "text": "Rejoice in the Lord always. I will say it again: Rejoice!",
+      "description": "Celebrate — joy in the Lord is a repeated, daily command and gift."
+    },
+    {
+      "reference": "Psalm 16:11",
+      "text": "You make known to me the path of life; in your presence there is fullness of joy.",
+      "description": "True, overflowing joy is found in God's presence."
+    },
+    {
+      "reference": "Nehemiah 8:10",
+      "text": "The joy of the LORD is your strength.",
+      "description": "Let God's joy power you through the day."
+    },
+    {
+      "reference": "1 Thessalonians 5:16-18",
+      "text": "Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus.",
+      "description": "We’re called to rejoice always, pray continually, and give thanks in every situation. This is God’s will for us, helping us stay grounded in faith no matter what happens."
+    }
   ],
   "fearful":[
-
+    {
+      "reference": "Isaiah 41:10",
+      "text": "So do not fear, for I am with you; do not be dismayed, for I am your God.",
+      "description": "God's presence removes the power of fear — He strengthens and helps you."
+    },
+    {
+      "reference": "Psalm 56:3",
+      "text": "When I am afraid, I put my trust in you.",
+      "description": "Fear can be met with the simple act of trusting God."
+    },
+    {
+      "reference": "2 Timothy 1:7",
+      "text": "God gave us a spirit not of fear but of power and love and self-control.",
+      "description": "You have God's Spirit within you — it empowers you beyond fear."
+    },
+    {
+      "reference": "Philippians 4:6-7",
+      "text": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+      "description": "We are encouraged not to be anxious but to bring our requests to God in prayer with thanksgiving. In return, His peace, beyond all understanding, will guard our hearts and minds."
+    }
   ]
 }
