@@ -212,3 +212,11 @@ def normalize_feeling(feel):
   if word in Synonms_Map:
     return Synonms_Map[word]
   return ""
+
+def pick_verse_for_feeling(feeling):
+  """Return a random verse for a given feeling"""
+  canonical = normalize_feeling(feeling)
+  if not canonical:
+    return None, list(verse_blank.keys())
+  chosen = random.choice(verse_blank[canonical])
+  return chosen, canonical
